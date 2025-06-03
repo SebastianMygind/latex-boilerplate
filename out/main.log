@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  1 JUN 2025 16:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  3 JUN 2025 09:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -227,40 +227,43 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \c@lstlisting=\count297
- (./section-1.tex
-<images/test.png, id=1, 803.0pt x 451.6875pt>
+ (./title-page.tex
+
+[1
+
+{/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/font
+s/map/pdftex/updmap/pdftex.map}]) (./section-1.tex
+<images/test.png, id=8, 803.0pt x 451.6875pt>
 File: images/test.png Graphic file (type png)
 <use images/test.png>
 Package pdftex.def Info: images/test.png  used on input line 7.
 (pdftex.def)             Requested size: 241.49895pt x 135.845pt.
 )
 
-[1{/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/fo
-nts/map/pdftex/updmap/pdftex.map}
-
- <./images/test.png>]
-(/var/home/seb/Devel/Latex/boilerplate/out/main.aux)
+[1 <./images/test.png>] (/var/home/seb/Devel/Latex/boilerplate/out/main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3864 strings out of 473190
- 58222 string characters out of 5697562
+ 3880 strings out of 473190
+ 58538 string characters out of 5697562
  443209 words of memory out of 5000000
- 27123 multiletter control sequences out of 15000+600000
- 559442 words of font info for 38 fonts, out of 8000000 for 9000
+ 27135 multiletter control sequences out of 15000+600000
+ 560654 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,6n,65p,220b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmbx12.pfb></var/home/linuxbrew/.linuxbrew/Cellar/
-texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on /var/home/seb/Devel/Latex/boilerplate/out/main.pdf (1 page, 3
-6322 bytes).
+texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr17.pfb>
+Output written on /var/home/seb/Devel/Latex/boilerplate/out/main.pdf (2 pages, 
+52526 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
- 10 compressed objects within 1 object stream
+ 27 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

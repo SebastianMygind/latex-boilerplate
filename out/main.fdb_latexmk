@@ -1,11 +1,13 @@
 # Fdb version 4
-["pdflatex"] 1748789277.40271 "main.tex" "/var/home/seb/Devel/Latex/boilerplate/out/main.pdf" "main" 1748789277.96261 0
+["pdflatex"] 1748936483.27117 "main.tex" "/var/home/seb/Devel/Latex/boilerplate/out/main.pdf" "main" 1748936483.55323 0
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1741388039 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1741388039 1288 655e228510b4c2a1abe905c368440826 ""
+  "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1741388039 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1741388039 32080 340ef9bf63678554ee606688e7b5339d ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1741388039 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1741388039 32362 179c33bbf43f19adbb3825bb4e36e57a ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1741388039 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty" 1741388039 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/amsfonts/amssymb.sty" 1741388039 13829 94730e64147574077f8ecfea9bb69af4 ""
@@ -31,10 +33,11 @@
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/listings/lstpatch.sty" 1741388039 353 9024412f43e92cd5b21fe9ded82d0610 ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/var/home/linuxbrew/.linuxbrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346150 07cce5a227fd5693bacd02b4f90fce20 ""
-  "/var/home/seb/Devel/Latex/boilerplate/out/main.aux" 1748789277.90079 420 b2838581bda4b2ef9e86a99eb7fdd8b9 "pdflatex"
+  "/var/home/seb/Devel/Latex/boilerplate/out/main.aux" 1748936483.5171 325 d110cd14786e262dfc957480fe541458 "pdflatex"
   "images/test.png" 1748788252.72232 5851 0f44e4669a757dd845ddc6c2dfc4692d ""
-  "main.tex" 1748788516.84418 213 6ac835c88517d75db598bf445cb65b35 ""
+  "main.tex" 1748936051.91996 191 27d2e0f3b93e8a1a751ecbe84b631b0a ""
   "section-1.tex" 1748789036.93943 306 4702b26e872f7e7dfa287c1cf0a0023e ""
+  "title-page.tex" 1748936481.26006 448 44d22cad970c9143a06e1321803e9968 ""
   (generated)
   "/var/home/seb/Devel/Latex/boilerplate/out/main.aux"
   "/var/home/seb/Devel/Latex/boilerplate/out/main.log"
